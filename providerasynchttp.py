@@ -14,5 +14,5 @@ w3= Web3(
         })},
     middleswares = []
 )
-custom_sesson = ClientSesson()
-await w3.provider.cache_async_sesson(customer_sesson)
+custom_session = ClientSession()
+await w3.provider.cache_async_session(customer_session)
